@@ -1,0 +1,38 @@
+body {
+    background: #62306d;
+  }
+  div {
+    position: absolute;
+  }
+  .a {
+    background: #FCF9CE;
+    width: 42px;
+    height: 140px;
+    transform: skew(-20deg);
+    top: 80px;
+    left: 149px;
+  }
+  .b {
+    background: #C2B844;
+    width: 43px;
+    height: 140px;
+    transform: skew(20deg);
+    top: 80px;
+    left: 208px;
+  }
+  .c {
+    background: #e38f66;
+    width: 52px;
+    height: 50px;
+    transform: skew(-40deg);
+    top: 170px;
+    left: 150px;
+  }
+  .d {
+    background: #aa445f;
+    width: 52px;
+    height: 50px;
+    transform: skew(40deg);
+    top: 170px;
+    left: 198px;
+  }
